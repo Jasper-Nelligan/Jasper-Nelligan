@@ -4,8 +4,6 @@ Here you'll find all my side projects, ranging from functioning apps and website
 
 I'm always looking to work with others, so feel free to hit me up if you want to create something!
 
-Currently interested in doing Blockchain development with Solidity/Ethers.js.
-
 [![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasper-Nelligan&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasper-Nelligan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
